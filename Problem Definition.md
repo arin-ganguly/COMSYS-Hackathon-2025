@@ -1,6 +1,6 @@
 ## Problem Definition given in COSYS-Hackathon 2025 by Jadavpur
 
-##Task A: Gender Classification (Binary Classification)
+## Task A: Gender Classification (Binary Classification)
 In this task, participants must build a binary classification model to distinguish between male and female faces.
 -	Dataset Structure:
 -	train/: Contains two subfolders — male/ and female/ with respective images.

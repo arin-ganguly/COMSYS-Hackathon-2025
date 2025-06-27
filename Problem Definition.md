@@ -5,7 +5,8 @@ In this task, participants must build a binary classification model to distingui
 -	Dataset Structure:
 -	train/: Contains two subfolders — male/ and female/ with respective images.
 -	val/: Contains similarly structured validation data.
-## _Objective:_ Train a model to accurately classify the gender of a face image.
+## _Objective:_ 
+Train a model to accurately classify the gender of a face image.
 
 ---
 
